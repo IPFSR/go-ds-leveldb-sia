@@ -1,4 +1,4 @@
-module github.com/LexLuthr/go-ds-leveldb-sia
+module github.com/IPFSR/go-ds-leveldb-sia
 
 go 1.20.7
 
